@@ -1,7 +1,9 @@
 Readme for home-assignment project
 --------------------------
 Language: Java 1.8
-Main libraries used: jax-rs, jersey, jetty, junit, Mockito
+
+Main libraries used: jax-rs, jersey, jetty, junit, mockito
+
 Frontend-libraries used: angularjs, bootstrap
 
 To test the service
