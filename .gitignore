@@ -15,4 +15,6 @@
 
 # IntelliJ
 out/
-
+.idea/
+.DS_Store
+home-assignment.iml
